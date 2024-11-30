@@ -19,3 +19,10 @@
 * This library code uses SPI functionalities.
 
   1. ![BME688](https://github.com/makeshm98/AirQuality_Monitoring/blob/main/BME688_Forced/BME688_Forced.ino)
+ 
+# BME688 calibration
+* The calibration of the BME688 sensor involves exposing the sensor to various environmental conditions to optimize its gas sensing performance.
+* This process ensures accurate measurement of air quality metrics, including VOCs and CO2 equivalents.
+* Calibration typically requires running the sensor in different temperature, humidity, and gas concentration levels over specified durations.
+* The sensor uses this data to refine its algorithms and improve accuracy.
+* Full calibration is crucial for applications like indoor air quality monitoring, where precise readings are essential for detecting pollution and maintaining a healthy environment.
