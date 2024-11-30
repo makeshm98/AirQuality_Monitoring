@@ -9,3 +9,5 @@
 * By using CO2 sensors, real-time monitoring can provide valuable insights into air quality and ventilation efficiency.
 * This data allows for adjustments to HVAC (Heating, Ventilation, and Air Conditioning) systems to maintain a healthy and comfortable indoor environment, promoting better air circulation and improving overall well-being.
 * Regular indoor CO2 monitoring is particularly important in spaces with limited airflow or high occupancy.
+
+  1. ![alt text](https://github.com/makeshm98/AirQuality_Monitoring/blob/main/Indoor_CO2/Indoor_CO2.ino)
