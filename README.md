@@ -26,3 +26,5 @@
 * Calibration typically requires running the sensor in different temperature, humidity, and gas concentration levels over specified durations.
 * The sensor uses this data to refine its algorithms and improve accuracy.
 * Full calibration is crucial for applications like indoor air quality monitoring, where precise readings are essential for detecting pollution and maintaining a healthy environment.
+
+  1. ![Calibration](https://github.com/makeshm98/AirQuality_Monitoring/tree/main/calibration)
